@@ -58,7 +58,7 @@ On Slide 18 of chapter 1-2
 >* Physiological action of poisonous principles
 >* Toxic exposure surveillance system
 
-![diagram 1 of chapter 3.PNG](#file:a5397fab-a8a8-76e5-6ec1-6aadbfaaa07c)
+![diagram 1 of chapter 3.PNG](https://i.imgur.com/tmdNubt.png)
 
 ```
 Biopesticides -->Properties:
