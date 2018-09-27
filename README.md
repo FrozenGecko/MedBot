@@ -42,7 +42,7 @@ ___
 
 
 ```
-On Slide 18 of chapter 1-2
+Stopped on Slide 18 of chapter 1-2
 ```
 
 
@@ -58,17 +58,19 @@ On Slide 18 of chapter 1-2
 >* Physiological action of poisonous principles
 >* Toxic exposure surveillance system
 
-![diagram 1 of chapter 3.PNG](https://i.imgur.com/tmdNubt.png)
+![diagram 1 of chapter 3](https://i.imgur.com/tmdNubt.png)
 
+`Biopesticides`
 ```
-Biopesticides -->Properties:
+Properties:
 Fungicidal
 Antiviral
 Insecticidal
 Herbicidal
 ```
+`Phytotherapy`
 ```
-Phytotherapy --> Properties
+Properties
 Analgesic
 Anti-inflammatory
 Antibacterial
@@ -82,7 +84,7 @@ Stimulant
 Antifungal
 Antiparasitic
 Antiarrhythmic
-...
+... (etc)
 ```
 #### Some Active Ingredients (And Test For Them)
 | Compounds | Test for them |
